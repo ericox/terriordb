@@ -12,9 +12,9 @@
   },
   "migrationPath": [
     { "location": "Scott Agricultural Laboratories, Kenya", "year": "1935", "notes": "One of dozens of single-tree selections; remained uncommon in cultivation" },
-    { "location": "Amaybamba region, Peru", "notes": "Found growing as 'Geisha Inca' — local name reflects history, not genetics" }
+    { "location": "Inkawasi Valley / San Fernando, Peru", "notes": "Found growing as 'Geisha Inca' — local name reflects history, not genetics; primary SL9 cluster" }
   ],
-  "flavorNotes": ["Florals", "Prickly pear", "Lychee"],
+  "flavorNotes": ["Florals", "Prickly pear", "Lychee", "Tropical notes", "Subtle florality", "High sweetness"],
   "agronomic": {
     "yieldPotential": "Medium",
     "optimalAltitudeM": { "min": 1900, "max": 2300 },
@@ -27,7 +27,14 @@
     "stature": "Tall",
     "beanSize": "Average"
   },
-  "notableProducers": ["Genezard Perez (Vista Alegre, Amaybamba, San Fernando Valley, Peru)"],
-  "description": "SL9 (also SL09) is a rare cultivar belonging to the Ethiopian Legacy group, one of the dozens of single-tree selections made by Scott Agricultural Laboratories in Kenya in the 1930s. It is uncommon in cultivation today and its exact genetic fingerprint is not currently in the global database — making it a provisional designation (noted as SL9*). In Peru's Amaybamba region it is grown under the local name 'Geisha Inca,' but genetic testing confirmed it contains no Gesha in its genetic composition. This is a striking example of how local naming can diverge entirely from genetic reality. Conversations with geneticists are ongoing to determine proper variety designation.",
+  "notableProducers": [
+    "Genezard Perez (Vista Alegre, Amaybamba, San Fernando Valley, Peru — 2200m)",
+    "Samuel & Mario Muriel (Los Cedros, Inkawasi Valley, Peru — 2080m; steep slope shaded by cedar trees)",
+    "Armando Hurtado (Los Pinos, Peru)",
+    "Wilbert Almanza (Bella Rosa, Peru)",
+    "Jhon Saenz (Aromas de Aniz, Peru)",
+    "Albino Ibias (Tres Cedros, Peru)"
+  ],
+  "description": "SL9 (also SL09) is a rare cultivar belonging to the Ethiopian Legacy group — one of the dozens of single-tree selections made by Scott Agricultural Laboratories in Kenya in the 1930s. It is uncommon in cultivation globally and its exact genetic fingerprint is not currently in the global database, making it a provisional designation (noted as SL9*). In Peru's Inkawasi Valley it is grown under the local name 'Geisha Inca,' but genetic testing confirmed it contains no Gesha in its genetic composition. This is one of the clearest examples of how local naming can diverge entirely from genetic reality: the name reflects the variety's visual similarity to Gesha and its history in the region, not its actual lineage. Multiple producers in the San Fernando Valley and Inkawasi area grow this variety, suggesting it arrived in Peru as a single introduction that spread through the local farming community. Conversations with geneticists are ongoing to establish proper variety designation.",
   "wcrSnpVerified": false
 }

@@ -1,0 +1,32 @@
+{
+  "id": "yellow-gesha",
+  "name": "Yellow Gesha",
+  "aliases": ["Yellow Geisha", "Yellow Geisha*"],
+  "geneticGroup": "Unknown",
+  "parentIds": [],
+  "certainty": "pending",
+  "origin": {
+    "country": "Peru",
+    "region": "Ocobamba, La Convención, Cusco",
+    "yearDiscovered": "2020s"
+  },
+  "migrationPath": [],
+  "flavorNotes": ["Jasmine", "Blackberry", "Mandarin", "Star fruit"],
+  "agronomic": {
+    "yieldPotential": "Low",
+    "optimalAltitudeM": { "min": 1800, "max": 2100 },
+    "firstProductionYear": 5,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "beanSize": "Large"
+  },
+  "notableProducers": [
+    "Neto (La Margarita, Ocobamba, La Convención, Cusco, Peru — organic/regenerative; darkroom drying; $70.54/kg green)"
+  ],
+  "description": "Yellow Gesha (also written Yellow Geisha*) refers to coffee from trees with yellow-fruiting cherries that is sold under the Gesha name. The 'yellow' is a fruit color phenotype — and critically, SEY Coffee notes that 'none of these lots have yet been genetically confirmed to be Geisha.' Samples have been submitted for lab analysis and the designation carries an asterisk until results arrive. Color mutations do occur in coffee (Yellow Bourbon and Red Bourbon are the same variety), but in this case the underlying genetic identity has not yet been established. Neto's lot at La Margarita is the reference case: it undergoes an exceptional processing method — 60-hour barrel fermentation followed by 18 days of darkroom drying rather than sun drying — and is priced at $70.54/kg green, among the highest in specialty coffee. Whether the cup quality is attributable to Gesha genetics, processing innovation, terroir, or some combination remains an open question until genetic testing resolves the variety designation.",
+  "wcrSnpVerified": false
+}
