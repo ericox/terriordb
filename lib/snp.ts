@@ -4,6 +4,13 @@ import path from "path";
 
 const CSV_PATH = path.join(process.cwd(), "data", "wcr-snp-panel.csv");
 
+// Return the 45 marker names from the CSV header
+export function getMarkerNames(): string[] {
+  if (!fs.existsSync(CSV_PATH)) return [];
+  const firstLine = fs.readFileSync(CSV_PATH, "utf-8").replace(/^﻿/, "").split("\n")[0];
+  return firstLine.split(",").slice(6).map((n) => n.trim());
+}
+
 // Parse the WCR SNP reference panel CSV
 export function loadSnpPanel(): SnpSample[] {
   if (!fs.existsSync(CSV_PATH)) return [];
