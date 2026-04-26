@@ -1,0 +1,38 @@
+{
+  "id": "mibirizi",
+  "name": "Mibirizi",
+  "aliases": [],
+  "geneticGroup": "Bourbon",
+  "parentIds": ["bourbon"],
+  "certainty": "classified",
+  "origin": {
+    "country": "Rwanda",
+    "region": "Mibirizi",
+    "yearDiscovered": "1930s"
+  },
+  "migrationPath": [
+    { "location": "Mibirizi, Rwanda", "year": "1930s", "notes": "Selected from Bourbon material introduced to Rwanda and Burundi during Belgian colonial era" },
+    { "location": "Burundi", "notes": "Widely adopted in Burundian washing stations; commonly grown alongside Red Bourbon" }
+  ],
+  "flavorNotes": ["Dried fruit", "Caramel", "Gentle acidity", "Full body"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1600, "max": 2200 },
+    "firstProductionYear": 4,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "beanSize": "Average"
+  },
+  "notableProducers": [
+    "Ruvumu washing station (Kayanza, Burundi — field blend with Red Bourbon)",
+    "Bukeye washing station / Long Miles Coffee Project (Muramvya, Burundi — field blend)",
+    "Ninga Bumba Hill (Kayanza, Burundi — field blend, harvest-date separated)"
+  ],
+  "description": "Mibirizi is a Bourbon selection developed in Rwanda and widely cultivated in Burundi alongside Red Bourbon. It is named after the Mibirizi area of Rwanda where it was first selected. The variety is noted for its exceptional cup quality and drought tolerance. In Burundi, it is rarely grown as a single variety — most washing stations process it as a field blend with Red Bourbon and sometimes SL34, making lot-level variety identification difficult. SEY Coffee notes that 'varieties in Burundi are not exactly straightforward' because exact field blend percentages are unknown even to the producers themselves.",
+  "wcrSlug": "mibirizi",
+  "wcrSnpVerified": false
+}

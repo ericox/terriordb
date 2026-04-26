@@ -12,9 +12,11 @@
   },
   "migrationPath": [
     { "location": "Ethiopia", "notes": "One parent is Ethiopian Landrace" },
-    { "location": "Ecuador", "notes": "Found growing primarily in Saraguro region; widely assumed to be Typica before genetic testing" }
+    { "location": "Saraguro, Loja, Ecuador", "notes": "Found growing primarily here; widely assumed to be Typica before genetic testing" },
+    { "location": "Putushio, Loja, Ecuador", "notes": "Also grown in this distinctive high-altitude arid microclimate at 2200m" },
+    { "location": "Imbabura, Ecuador", "notes": "Grown biodynamically at 1515m on Finca Soledad, a community-oriented operation" }
   ],
-  "flavorNotes": ["Key lime", "Floral botanicals", "Ripe stone fruit", "Bright acidity"],
+  "flavorNotes": ["Key lime", "Dragon fruit", "Rosewater", "Floral botanicals", "Ripe stone fruit", "Bright acidity", "Tree tomato", "Black currant"],
   "agronomic": {
     "yieldPotential": "Medium",
     "optimalAltitudeM": { "min": 1700, "max": 2100 },
@@ -28,9 +30,10 @@
     "beanSize": "Average"
   },
   "notableProducers": [
-    "Victor Dota (Saraguro, Ecuador)",
+    "Victor Dota (Saraguro, Ecuador — first exportable harvest, 0.5ha / 400 plants)",
     "Mery Garcito (Finca La Bendición, Ecuador)",
-    "Pepe Jijon (Ecuador)"
+    "Pepe Jijon & Francisco Vintimilla (Putushio, Loja, Ecuador — 2200m, Equinoctial Andes)",
+    "Pepe Jijon (Finca Soledad, Imbabura, Ecuador — biodynamic/organic, 1515m)"
   ],
   "description": "Mejorado is widely known by the colloquial name 'Typica Mejorado,' but genetic testing by World Coffee Research revealed it is actually a cross between Bourbon and an Ethiopian Landrace variety — not Typica at all. This is a clear example of how local names can diverge significantly from genetic reality. The variety is grown primarily in Ecuador's Saraguro region and produces a distinctive, bright, floral cup. Its name ('mejorado' = 'improved' in Spanish) likely refers to observed improvements in yield or cup quality over nearby Typica plants.",
   "wcrSnpVerified": false
