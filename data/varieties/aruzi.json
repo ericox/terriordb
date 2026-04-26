@@ -1,0 +1,29 @@
+{
+  "id": "aruzi",
+  "name": "Aruzi",
+  "aliases": [],
+  "geneticGroup": "Unknown",
+  "parentIds": [],
+  "certainty": "insufficient",
+  "origin": {
+    "country": "Colombia",
+    "region": "La Plata, Huila"
+  },
+  "migrationPath": [],
+  "flavorNotes": ["Ripe plum", "White grape", "Hibiscus"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1700, "max": 2000 },
+    "firstProductionYear": 3,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Medium",
+    "beanSize": "Average"
+  },
+  "notableProducers": ["Ludivia Luna (El Diviso, La Plata, Huila, Colombia)"],
+  "description": "Aruzi is a poorly characterized variety found in Huila, Colombia. Only a few samples have been genetically sequenced, and the results have been too varied to draw any definitive conclusions about its origins or classification. Further genetic testing is planned. It is a variety that researchers and roasters remain deeply interested in — the cup quality is compelling but the genetic story is still being written. SEY Coffee noted in 2025 that they are 'eagerly exploring' this variety further.",
+  "wcrSnpVerified": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "typica",
+  "name": "Typica",
+  "aliases": ["Criollo", "Indio", "Arábigo", "Plume Hidalgo", "Blue Mountain", "Sumatra"],
+  "geneticGroup": "Typica",
+  "parentIds": [],
+  "certainty": "wcr-verified",
+  "origin": {
+    "country": "Ethiopia",
+    "region": "Southwestern Ethiopia",
+    "yearDiscovered": "pre-1600s"
+  },
+  "migrationPath": [
+    { "location": "Ethiopia", "notes": "Natural coffee forests" },
+    { "location": "Yemen", "year": "1500s", "notes": "Cultivated as a crop" },
+    { "location": "India (Malabar Coast)", "year": "1600s" },
+    { "location": "Java, Indonesia", "year": "1696" },
+    { "location": "Amsterdam Botanical Garden", "year": "1706" },
+    { "location": "French Guiana", "year": "1719" },
+    { "location": "Brazil", "year": "1727" },
+    { "location": "Central America", "year": "1800s" }
+  ],
+  "flavorNotes": ["Dark berries", "Honeysuckle", "Lemon curd", "Clean terroir expression"],
+  "agronomic": {
+    "yieldPotential": "Low",
+    "optimalAltitudeM": { "min": 1400, "max": 2200 },
+    "firstProductionYear": 4,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "leafTipColor": "Bronze",
+    "beanSize": "Large"
+  },
+  "notableProducers": ["Alejandro Renjifo (Reina de Saba, Colombia)"],
+  "description": "One of the two foundational Arabica lineages. Seeds were taken from the natural coffee forests of Southwestern Ethiopia to Yemen, where it was cultivated as a crop. From Yemen, Typica dispersed globally — arriving in Brazil in the early 1700s and dominating Central American plantations until the 1940s. Because it is low-yielding and highly susceptible to disease, it was gradually replaced by Bourbon derivatives. 100% Typica is becoming increasingly rare in high-end specialty coffee, making verified lots a significant find.",
+  "wcrSlug": "typica",
+  "wcrSnpVerified": true
+}

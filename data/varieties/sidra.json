@@ -1,0 +1,33 @@
+{
+  "id": "sidra",
+  "name": "Sidra",
+  "aliases": [],
+  "geneticGroup": "Ethiopian Landrace",
+  "parentIds": [],
+  "certainty": "classified",
+  "origin": {
+    "country": "Ecuador",
+    "yearDiscovered": "2010s"
+  },
+  "migrationPath": [
+    { "location": "Ethiopia", "notes": "Genetic origin confirmed as Ethiopian Landrace through testing" },
+    { "location": "Ecuador", "notes": "First identified and named in Ecuador" },
+    { "location": "Colombia", "notes": "Now also found in Colombian farms" }
+  ],
+  "flavorNotes": ["Strawberry", "Tropical fruit", "Floral", "Elegant sweetness"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1600, "max": 2100 },
+    "firstProductionYear": 3,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Medium",
+    "beanSize": "Average"
+  },
+  "notableProducers": ["Miller Sarmiento (Santa María, Huila, Colombia — blended with Pink Bourbon)"],
+  "description": "Sidra has Ethiopian genetic origins but was first identified and named in Ecuador. Like Pink Bourbon and Chiroso, it belongs to the broad 'Ethiopian Landrace' classification without more specific resolution — the global database doesn't yet have enough sequences to distinguish its exact lineage. It shares flavor characteristics with other Ethiopian-origin varieties: floral, sweet, and fruit-forward. It sometimes appears blended with Pink Bourbon when individual lot sizes are too small to sell separately.",
+  "wcrSnpVerified": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ethiopian-landrace",
+  "name": "Ethiopian Landrace",
+  "aliases": ["Ethiopian Heirloom", "Ethiopia Native"],
+  "geneticGroup": "Ethiopian Landrace",
+  "parentIds": [],
+  "certainty": "classified",
+  "origin": {
+    "country": "Ethiopia",
+    "yearDiscovered": "ancient"
+  },
+  "migrationPath": [
+    { "location": "Ethiopia", "notes": "Origin of all Coffea arabica; contains the greatest genetic diversity of any coffee-growing region" }
+  ],
+  "flavorNotes": ["Bergamot", "Ripe peach", "Star fruit", "Melon", "Jasmine", "Blueberry", "Complex florals"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1500, "max": 2300 },
+    "firstProductionYear": 4,
+    "diseaseResistance": {
+      "leafRust": "Moderate",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "beanSize": "Average"
+  },
+  "notableProducers": [
+    "Guduba wet mill (Benti Nenka, Hambela Wamena, Guji, Ethiopia)",
+    "Harmufo (Ethiopia)",
+    "Elora (Lot 156, Ethiopia)",
+    "Gerbota (Ethiopia)"
+  ],
+  "description": "Ethiopia is the birthplace of all Coffea arabica. DNA testing has confirmed over 60 distinct varieties growing in Ethiopia, making it home to the most coffee biodiversity of any region in the world. Most Ethiopian coffees sold commercially are blends of multiple native varieties — the term 'Ethiopian Landrace' is used when genetic testing confirms Ethiopian origin but the database isn't yet large enough to identify the specific variety or accession. Single-variety Ethiopian lots are rare but becoming more available as genetic sequencing improves. Several high-value Colombian varieties (Pink Bourbon, Chiroso, Sidra) are themselves classified as Ethiopian Landrace — they likely traveled to Latin America through undocumented routes.",
+  "wcrSnpVerified": false
+}

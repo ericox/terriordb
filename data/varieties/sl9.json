@@ -1,0 +1,33 @@
+{
+  "id": "sl9",
+  "name": "SL9",
+  "aliases": ["SL09", "Geisha Inca"],
+  "geneticGroup": "Ethiopian Legacy",
+  "parentIds": [],
+  "certainty": "pending",
+  "origin": {
+    "country": "Kenya",
+    "region": "Scott Agricultural Laboratories",
+    "yearDiscovered": "1935"
+  },
+  "migrationPath": [
+    { "location": "Scott Agricultural Laboratories, Kenya", "year": "1935", "notes": "One of dozens of single-tree selections; remained uncommon in cultivation" },
+    { "location": "Amaybamba region, Peru", "notes": "Found growing as 'Geisha Inca' — local name reflects history, not genetics" }
+  ],
+  "flavorNotes": ["Florals", "Prickly pear", "Lychee"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1900, "max": 2300 },
+    "firstProductionYear": 4,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "beanSize": "Average"
+  },
+  "notableProducers": ["Genezard Perez (Vista Alegre, Amaybamba, San Fernando Valley, Peru)"],
+  "description": "SL9 (also SL09) is a rare cultivar belonging to the Ethiopian Legacy group, one of the dozens of single-tree selections made by Scott Agricultural Laboratories in Kenya in the 1930s. It is uncommon in cultivation today and its exact genetic fingerprint is not currently in the global database — making it a provisional designation (noted as SL9*). In Peru's Amaybamba region it is grown under the local name 'Geisha Inca,' but genetic testing confirmed it contains no Gesha in its genetic composition. This is a striking example of how local naming can diverge entirely from genetic reality. Conversations with geneticists are ongoing to determine proper variety designation.",
+  "wcrSnpVerified": false
+}

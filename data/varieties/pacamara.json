@@ -1,0 +1,32 @@
+{
+  "id": "pacamara",
+  "name": "Pacamara",
+  "aliases": [],
+  "geneticGroup": "Bourbon x Typica",
+  "parentIds": ["maragogype", "pacas"],
+  "certainty": "wcr-verified",
+  "origin": {
+    "country": "El Salvador",
+    "region": "ISIC (Instituto Salvadoreño de Investigaciones del Café)",
+    "yearDiscovered": "1958"
+  },
+  "migrationPath": [
+    { "location": "El Salvador", "year": "1958", "notes": "Deliberately bred cross of Pacas and Maragogype" }
+  ],
+  "flavorNotes": ["Chocolate", "Berry", "Herbal", "Complex", "Heavy body"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1200, "max": 2000 },
+    "firstProductionYear": 3,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "beanSize": "Large"
+  },
+  "description": "Deliberately bred in El Salvador in 1958 by crossing Pacas (a Bourbon mutation) with Maragogype (a Typica mutation). Pacamara produces very large beans and is capable of exceptional cup quality at high altitudes, with a complex, heavy-bodied profile. It is prized in the specialty market, particularly in El Salvador and Guatemala, and has been used as a parent in modern breeding programs including Anacafe 14.",
+  "wcrSlug": "pacamara",
+  "wcrSnpVerified": true
+}

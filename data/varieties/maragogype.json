@@ -1,0 +1,33 @@
+{
+  "id": "maragogype",
+  "name": "Maragogype",
+  "aliases": ["Maragogipe", "Elephant Bean"],
+  "geneticGroup": "Typica",
+  "parentIds": ["typica"],
+  "certainty": "classified",
+  "origin": {
+    "country": "Brazil",
+    "region": "Maragogipe, Bahia",
+    "yearDiscovered": "1870"
+  },
+  "migrationPath": [
+    { "location": "Maragogipe, Bahia, Brazil", "year": "1870", "notes": "Natural Typica mutation producing exceptionally large beans" },
+    { "location": "Central America, Mexico", "year": "1900s" }
+  ],
+  "flavorNotes": ["Mild", "Sweet", "Low acidity", "Light body"],
+  "agronomic": {
+    "yieldPotential": "Low",
+    "optimalAltitudeM": { "min": 1000, "max": 1800 },
+    "firstProductionYear": 4,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "beanSize": "Large"
+  },
+  "description": "A natural mutation of Typica discovered in Bahia, Brazil in 1870, famous for producing the largest coffee beans of any Arabica variety — sometimes called 'Elephant Bean.' Despite striking visual appeal, it is low-yielding and the cup quality is generally mild. Its size has made it a parent for crosses targeting large bean size, most notably Pacamara (Maragogype x Pacas).",
+  "wcrSlug": "maragogipe",
+  "wcrSnpVerified": true
+}

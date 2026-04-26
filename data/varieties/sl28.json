@@ -1,0 +1,35 @@
+{
+  "id": "sl28",
+  "name": "SL28",
+  "aliases": [],
+  "geneticGroup": "Bourbon",
+  "parentIds": ["bourbon"],
+  "certainty": "classified",
+  "origin": {
+    "country": "Kenya",
+    "region": "Kabete",
+    "yearDiscovered": "1935"
+  },
+  "migrationPath": [
+    { "location": "Tanganyika (Tanzania)", "notes": "Believed to originate from drought-resistant Tanganyika drought-resistant variety" },
+    { "location": "Scott Agricultural Laboratories, Kabete, Kenya", "year": "1935", "notes": "Single-tree selection; selected for drought resistance and cup quality" },
+    { "location": "Nyeri, Kenya", "notes": "Primary growing region" }
+  ],
+  "flavorNotes": ["Blackcurrant", "Tomato", "Tropical fruit", "Complex acidity", "Full body"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1500, "max": 2100 },
+    "firstProductionYear": 4,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "beanSize": "Large"
+  },
+  "notableProducers": ["Ruarai Estate (Nyeri, Kenya)"],
+  "description": "Selected by Scott Agricultural Laboratories in Kenya in 1935, SL28 comes from the Bourbon lineage and was chosen for its exceptional drought resistance and extraordinary cup quality. It is one of the most celebrated variety selections in Kenya, responsible for the classic 'Kenyan' flavor profile of blackcurrant and complex acidity. Like most heirloom varieties, it is highly susceptible to coffee leaf rust and berry disease, making it increasingly difficult to cultivate commercially.",
+  "wcrSlug": "sl28",
+  "wcrSnpVerified": false
+}

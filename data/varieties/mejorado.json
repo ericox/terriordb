@@ -1,0 +1,37 @@
+{
+  "id": "mejorado",
+  "name": "Mejorado",
+  "aliases": ["Typica Mejorado"],
+  "geneticGroup": "Bourbon",
+  "parentIds": ["bourbon"],
+  "certainty": "classified",
+  "origin": {
+    "country": "Ecuador",
+    "region": "Saraguro",
+    "yearDiscovered": "unknown"
+  },
+  "migrationPath": [
+    { "location": "Ethiopia", "notes": "One parent is Ethiopian Landrace" },
+    { "location": "Ecuador", "notes": "Found growing primarily in Saraguro region; widely assumed to be Typica before genetic testing" }
+  ],
+  "flavorNotes": ["Key lime", "Floral botanicals", "Ripe stone fruit", "Bright acidity"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1700, "max": 2100 },
+    "firstProductionYear": 3,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Medium",
+    "beanSize": "Average"
+  },
+  "notableProducers": [
+    "Victor Dota (Saraguro, Ecuador)",
+    "Mery Garcito (Finca La Bendición, Ecuador)",
+    "Pepe Jijon (Ecuador)"
+  ],
+  "description": "Mejorado is widely known by the colloquial name 'Typica Mejorado,' but genetic testing by World Coffee Research revealed it is actually a cross between Bourbon and an Ethiopian Landrace variety — not Typica at all. This is a clear example of how local names can diverge significantly from genetic reality. The variety is grown primarily in Ecuador's Saraguro region and produces a distinctive, bright, floral cup. Its name ('mejorado' = 'improved' in Spanish) likely refers to observed improvements in yield or cup quality over nearby Typica plants.",
+  "wcrSnpVerified": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "caturra",
+  "name": "Caturra",
+  "aliases": ["Caturra Rojo", "Caturra Amarillo"],
+  "geneticGroup": "Bourbon",
+  "parentIds": ["bourbon"],
+  "certainty": "wcr-verified",
+  "origin": {
+    "country": "Brazil",
+    "region": "Minas Gerais",
+    "yearDiscovered": "1915"
+  },
+  "migrationPath": [
+    { "location": "Minas Gerais, Brazil", "year": "1915", "notes": "Natural dwarf mutation of Bourbon discovered" },
+    { "location": "CENICAFÉ, Colombia", "year": "1950s", "notes": "Introduced and widely promoted for compact size and yield" },
+    { "location": "Central America", "year": "1960s–1970s" }
+  ],
+  "flavorNotes": ["Citrus", "Mild sweetness", "Light body", "Clean"],
+  "agronomic": {
+    "yieldPotential": "High",
+    "optimalAltitudeM": { "min": 1000, "max": 1900 },
+    "firstProductionYear": 2,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Compact",
+    "leafTipColor": "Green",
+    "beanSize": "Small"
+  },
+  "description": "A natural dwarf mutation of Bourbon discovered in Minas Gerais, Brazil around 1915. Its compact size allows for denser planting and easier harvesting, making it a workhorse of Latin American coffee production. It became a parent variety for many important hybrids including Catuai and the Catimor group. Despite its widespread planting, Caturra is highly susceptible to all major coffee diseases.",
+  "wcrSlug": "caturra",
+  "wcrSnpVerified": true
+}

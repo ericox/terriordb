@@ -1,0 +1,40 @@
+{
+  "id": "pink-bourbon",
+  "name": "Pink Bourbon",
+  "aliases": [],
+  "geneticGroup": "Ethiopian Landrace",
+  "parentIds": [],
+  "certainty": "classified",
+  "origin": {
+    "country": "Colombia",
+    "region": "Huila",
+    "yearDiscovered": "2010s"
+  },
+  "migrationPath": [
+    { "location": "Ethiopia", "notes": "Genetic origin as Ethiopian Landrace — exact accession unknown" },
+    { "location": "Huila, Colombia", "notes": "Primary cultivation region; how it arrived is undocumented" }
+  ],
+  "flavorNotes": ["Pink lemonade", "Strawberry preserve", "Soft florals", "Red berries", "Bright acidity"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1600, "max": 2100 },
+    "firstProductionYear": 3,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Medium",
+    "beanSize": "Average"
+  },
+  "notableProducers": [
+    "Diego Parra (La Hacienda, Pitalito, Colombia)",
+    "William Ortiz (La Cabaña, Pitalito, Colombia)",
+    "Wilson Alba (Sierra Morena, Colombia)",
+    "Victor Chala (La Palma Rosa, Colombia)",
+    "Flor Marina Betancourt (Finca Cataluña, Colombia)",
+    "Francy Burbano (Buena Vista, Colombia)"
+  ],
+  "description": "Pink Bourbon has been genetically identified as an Ethiopian Landrace variety, but the database is not yet large enough to be more specific about its origins. It is called 'Pink Bourbon' because of its distinctive pink cherry color, but it is not closely related to classic Bourbon despite the name. It grows primarily in and around Huila, Colombia. The variety is relatively new to the specialty market and is being actively studied — its exact lineage and how it arrived in Colombia remain undocumented.",
+  "wcrSnpVerified": false
+}

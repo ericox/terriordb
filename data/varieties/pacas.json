@@ -1,0 +1,33 @@
+{
+  "id": "pacas",
+  "name": "Pacas",
+  "aliases": [],
+  "geneticGroup": "Bourbon",
+  "parentIds": ["bourbon"],
+  "certainty": "wcr-verified",
+  "origin": {
+    "country": "El Salvador",
+    "region": "Santa Ana",
+    "yearDiscovered": "1949"
+  },
+  "migrationPath": [
+    { "location": "Santa Ana, El Salvador", "year": "1949", "notes": "Natural dwarf mutation of Bourbon found on the Pacas family farm" }
+  ],
+  "flavorNotes": ["Sweet", "Citrus", "Mild", "Clean"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1000, "max": 1900 },
+    "firstProductionYear": 3,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Compact",
+    "leafTipColor": "Green",
+    "beanSize": "Average"
+  },
+  "description": "A natural dwarf mutation of Bourbon discovered in 1949 on the Pacas family farm in El Salvador. Similar to Caturra in being a compact Bourbon mutation, Pacas became an important parent variety — most notably as one of the two parents of Pacamara.",
+  "wcrSlug": "pacas",
+  "wcrSnpVerified": true
+}

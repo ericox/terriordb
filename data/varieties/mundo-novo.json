@@ -1,0 +1,33 @@
+{
+  "id": "mundo-novo",
+  "name": "Mundo Novo",
+  "aliases": [],
+  "geneticGroup": "Bourbon x Typica",
+  "parentIds": ["bourbon", "typica"],
+  "certainty": "classified",
+  "origin": {
+    "country": "Brazil",
+    "region": "São Paulo",
+    "yearDiscovered": "1943"
+  },
+  "migrationPath": [
+    { "location": "São Paulo, Brazil", "year": "1943", "notes": "Natural hybrid of Bourbon and Sumatra (Typica) found in Urupês" }
+  ],
+  "flavorNotes": ["Chocolate", "Nuts", "Mild sweetness", "Full body"],
+  "agronomic": {
+    "yieldPotential": "High",
+    "optimalAltitudeM": { "min": 1000, "max": 1900 },
+    "firstProductionYear": 4,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "leafTipColor": "Green",
+    "beanSize": "Average"
+  },
+  "description": "A natural hybrid of Bourbon and Sumatra (a Typica lineage variety), discovered in São Paulo state, Brazil in 1943. It is vigorous and highly productive, becoming one of the most planted varieties in Brazil. It served as a parent for Catuai. Despite being a hybrid of the two foundational lineages, it is disease-susceptible.",
+  "wcrSlug": "mundo-novo",
+  "wcrSnpVerified": false
+}

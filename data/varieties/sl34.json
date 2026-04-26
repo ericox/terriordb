@@ -1,0 +1,34 @@
+{
+  "id": "sl34",
+  "name": "SL34",
+  "aliases": [],
+  "geneticGroup": "Typica",
+  "parentIds": ["typica"],
+  "certainty": "classified",
+  "origin": {
+    "country": "Kenya",
+    "region": "Loresho Estate, Kabete",
+    "yearDiscovered": "1935"
+  },
+  "migrationPath": [
+    { "location": "Loresho Estate, Kabete, Kenya", "year": "1935", "notes": "Single-tree selection by Scott Agricultural Laboratories from Typica lineage" },
+    { "location": "Nyeri, Kenya", "notes": "Primary growing region; often grown alongside SL28" }
+  ],
+  "flavorNotes": ["Citrus", "Berry", "Full body", "Bright acidity"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1500, "max": 2000 },
+    "firstProductionYear": 4,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "beanSize": "Large"
+  },
+  "notableProducers": ["Ruarai Estate (Nyeri, Kenya)"],
+  "description": "Selected by Scott Agricultural Laboratories in Kenya in 1935, SL34 comes from the Typica lineage (selected from Loresho Estate). It is closely associated with SL28 and often grown alongside it on Kenyan farms. SL34 is known for exceptional cup quality, particularly at high altitudes, but like SL28 it is highly susceptible to coffee berry disease (CBD) — one of the most damaging pathogens in East African coffee. The 'SL' designation refers to single-tree selections; dozens were made, but SL28 and SL34 became the most celebrated.",
+  "wcrSlug": "sl34",
+  "wcrSnpVerified": false
+}

@@ -1,0 +1,42 @@
+{
+  "id": "gesha",
+  "name": "Gesha",
+  "aliases": ["Geisha", "T2722", "Abyssinia"],
+  "geneticGroup": "Ethiopian Wild",
+  "parentIds": [],
+  "certainty": "classified",
+  "origin": {
+    "country": "Ethiopia",
+    "region": "Gesha village, Kaffa region",
+    "yearDiscovered": "1931"
+  },
+  "migrationPath": [
+    { "location": "Gesha village, Kaffa, Ethiopia", "year": "1931", "notes": "Collected from wild coffee forests" },
+    { "location": "Lyamungu Research Station, Tanzania", "year": "1936", "notes": "Introduced for leaf rust resistance research" },
+    { "location": "CATIE, Costa Rica", "year": "1953", "notes": "Acquired designation T2722; largely overlooked for decades" },
+    { "location": "Hacienda La Esmeralda, Panama", "year": "1963", "notes": "Planted; rediscovered in 2004 by the Peterson family" },
+    { "location": "Panama auction circuit", "year": "2005", "notes": "Broke specialty auction records at $20+/lb; set off global demand" },
+    { "location": "Colombia, Peru, Ecuador", "year": "2010s", "notes": "Planted across Latin America chasing the Panama profile" }
+  ],
+  "flavorNotes": ["White florals", "Jasmine", "Ripe apricot", "Bergamot", "Lemon verbena", "Tropical fruit"],
+  "agronomic": {
+    "yieldPotential": "Low",
+    "optimalAltitudeM": { "min": 1500, "max": 2200 },
+    "firstProductionYear": 5,
+    "diseaseResistance": {
+      "leafRust": "Resistant",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "beanSize": "Large"
+  },
+  "notableProducers": [
+    "Yessica Parra (El Mirador, Pitalito, Colombia)",
+    "Samuel Aragon (Caminos del Inka, Peru)",
+    "Neto (La Margarita, Ocobamba, Peru — Yellow Gesha, unconfirmed)"
+  ],
+  "description": "Gesha originated from coffee forests in the Kaffa region of Ethiopia, near the village of Gesha. After traveling through Tanzania and Costa Rica (where it sat unnoticed for decades as T2722), it was planted in Panama in the 1960s and rediscovered in 2004. The Peterson family entered it into Panama's Best of Panama competition in 2005, where it fetched record-breaking prices and ignited global demand. It has since been planted across Latin America — though genetic confirmation varies by lot. Some coffees sold as 'Gesha' have no Gesha genetics at all.",
+  "wcrSlug": "geisha",
+  "wcrSnpVerified": false
+}

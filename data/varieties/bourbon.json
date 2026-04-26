@@ -1,0 +1,36 @@
+{
+  "id": "bourbon",
+  "name": "Bourbon",
+  "aliases": ["Red Bourbon", "Bourbon Rouge"],
+  "geneticGroup": "Bourbon",
+  "parentIds": [],
+  "certainty": "wcr-verified",
+  "origin": {
+    "country": "Yemen",
+    "yearDiscovered": "pre-1700s"
+  },
+  "migrationPath": [
+    { "location": "Ethiopia", "notes": "Natural origin as Ethiopian wild coffee" },
+    { "location": "Yemen", "notes": "Cultivated; diverged from Typica lineage" },
+    { "location": "Bourbon Island (Réunion)", "year": "1715", "notes": "Introduced by French missionaries; isolated for ~150 years" },
+    { "location": "Brazil", "year": "1860" },
+    { "location": "El Salvador, Guatemala, Honduras", "year": "1900s" }
+  ],
+  "flavorNotes": ["Brown sugar", "Stone fruit", "Caramel", "Red apple", "Balanced acidity"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1000, "max": 2000 },
+    "firstProductionYear": 4,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "leafTipColor": "Green",
+    "beanSize": "Average"
+  },
+  "description": "The second foundational Arabica lineage alongside Typica. French missionaries introduced it from Yemen to Bourbon Island (now Réunion) in the early 1700s, where it remained isolated for ~150 years. This isolation produced a distinct genetic divergence from Typica. Bourbon arrived in Brazil around 1860 and spread through Central and South America, becoming the parent of many of today's most important varieties including Caturra, Catuai, and Mundo Novo.",
+  "wcrSlug": "bourbon",
+  "wcrSnpVerified": true
+}

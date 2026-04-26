@@ -1,0 +1,37 @@
+{
+  "id": "chiroso",
+  "name": "Chiroso",
+  "aliases": [],
+  "geneticGroup": "Ethiopian Landrace",
+  "parentIds": [],
+  "certainty": "classified",
+  "origin": {
+    "country": "Colombia",
+    "region": "Urrao, Antioquia",
+    "yearDiscovered": "2010s"
+  },
+  "migrationPath": [
+    { "location": "Ethiopia", "notes": "Genetic origin confirmed as Ethiopian Landrace; exact accession unknown" },
+    { "location": "Urrao, Antioquia, Colombia", "notes": "How it arrived is unknown; found growing in remote farms" }
+  ],
+  "flavorNotes": ["Ripe tropical fruit", "Linden flower", "Exceptional sweetness", "Vibrant structure"],
+  "agronomic": {
+    "yieldPotential": "Medium",
+    "optimalAltitudeM": { "min": 1800, "max": 2200 },
+    "firstProductionYear": 3,
+    "diseaseResistance": {
+      "leafRust": "Susceptible",
+      "coffeeBerryDisease": "Susceptible",
+      "nematode": "Susceptible"
+    },
+    "stature": "Tall",
+    "beanSize": "Average"
+  },
+  "notableProducers": [
+    "David Berrio (La Casita, Urrao, Antioquia)",
+    "William Ortiz (La Cabaña, Pitalito, Huila)",
+    "Albeiro Ramirez (El Roble, Colombia)"
+  ],
+  "description": "Chiroso is an Ethiopian Landrace variety cultivated primarily in Urrao, Antioquia, Colombia. It has been genetically confirmed as Ethiopian in origin, but the database is not yet detailed enough to identify the specific accession. How the variety arrived in Urrao remains a mystery. The variety produces an expressive, tropical-fruit-forward cup with exceptional sweetness. SEY Coffee has been building a dedicated buying program around Chiroso in Urrao, working with The Coffee Quest.",
+  "wcrSnpVerified": false
+}
