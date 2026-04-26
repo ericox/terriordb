@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Coffee Genetics Explorer",
+  title: "TerriorDB",
   description: "Explore the genetic lineage, flavor traits, and authentication status of specialty coffee varieties.",
 };
 
@@ -13,7 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header className="border-b border-[var(--border)] px-6 py-4">
           <nav className="max-w-5xl mx-auto flex items-center justify-between">
             <a href="/" className="text-lg font-semibold tracking-wide text-[var(--accent)]">
-              Coffee Genetics Explorer
+              TerriorDB
             </a>
             <div className="flex gap-6 text-sm text-[var(--muted)]">
               <a href="/varieties" className="hover:text-[var(--foreground)] transition-colors">Varieties</a>
