@@ -1,16 +1,17 @@
 @import "tailwindcss";
 
 :root {
-  --background: #faf8f5;
-  --foreground: #1a1612;
-  --accent: #6b3f1e;
-  --accent-light: #c4855a;
-  --muted: #8a7968;
-  --border: #e8e0d5;
+  --background: #f9f9f8;
+  --foreground: #1c1c1a;
+  --accent: #4a6670;
+  --accent-light: #7a9aa5;
+  --muted: #8e8e88;
+  --border: #e4e4e0;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-inter), system-ui, -apple-system, sans-serif;
+  letter-spacing: -0.01em;
 }
